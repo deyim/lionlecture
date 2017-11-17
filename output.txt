@@ -1,0 +1,11 @@
+FAIL ./a_test.txt
+PASS ./b_test.txt
+FAIL ./c_test.txt
+PASS ./d_test.txt
+PASS ./e_test.txt
+FAIL ./f_test.txt
+PASS ./g_test.txt
+PASS ./h_test.txt
+FAIL ./i_test.txt
+PASS ./j_test.txt
+PASS ./k_test.txt
